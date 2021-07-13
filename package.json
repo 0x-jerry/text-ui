@@ -1,0 +1,14 @@
+{
+  "name": "text-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/0x-jerry/text-ui.git",
+  "author": "0x-jerry <x.jerry.wang@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "vite": "^2.4.2"
+  }
+}
